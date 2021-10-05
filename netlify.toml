@@ -1,2 +1,3 @@
-[functions]
+[build]
+command = "npm install && npm run build"
   directory = "functions"
